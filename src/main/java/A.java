@@ -7,5 +7,7 @@
  * @Copyright(c) gome inc Gome Co.,LTD   
  */
 public class A {
-
+	public static void main(String[] args) {
+		
+	}
 }
