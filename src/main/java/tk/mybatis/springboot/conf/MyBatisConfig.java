@@ -69,7 +69,7 @@ public class MyBatisConfig implements TransactionManagementConfigurer {
         properties.setProperty("returnPageInfo", "check");
         properties.setProperty("params", "count=countSql");
         pageHelper.setProperties(properties);
-
+   
         //添加插件
         bean.setPlugins(new Interceptor[]{pageHelper});
 
