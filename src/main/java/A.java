@@ -8,7 +8,7 @@
  */
 public class A {
 	public static void main(String[] args) {
-
+		System.out.println("CCCCCCCCCCCCCCCCCCC");
 		System.out.println("dddddddd");
 
 	}
